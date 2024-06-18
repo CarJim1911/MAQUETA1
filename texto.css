@@ -1,0 +1,12 @@
+.contenedor {
+    position: static;
+    background-image: url('img/imagen.jpg');
+    height: 1200px; 
+  }
+  
+  .texto {
+    position: fixed;
+    top: 20px; 
+    left: 30px; 
+  }
+  

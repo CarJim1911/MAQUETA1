@@ -1,0 +1,14 @@
+.imagen {
+    position: relative;
+}
+  
+.texto {
+    position: sticky;
+    bottom: 20px; 
+}
+
+img {
+    width: 90%;
+    height: 400;
+}
+  
